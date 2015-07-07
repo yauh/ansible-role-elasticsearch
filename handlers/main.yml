@@ -1,0 +1,4 @@
+---
+# handlers file for yauh.elasticsearch
+- name: restart elasticsearch
+  service: name=elasticsearch state=restarted

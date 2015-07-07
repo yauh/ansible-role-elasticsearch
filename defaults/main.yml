@@ -1,0 +1,7 @@
+---
+# defaults file for yauh.elasticsearch
+elasticsearch_config_settings:
+  - regexp: '^script\.disable_dynamic'
+    line: 'script.disable_dynamic: true'
+  - regexp: 'network\.host'
+    line: 'network.host: localhost'
