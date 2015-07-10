@@ -5,3 +5,6 @@ elasticsearch_config_settings:
     line: 'script.disable_dynamic: true'
   - regexp: 'network\.host'
     line: 'network.host: localhost'
+elasticsearch_users:
+  - name: admin
+    password: password

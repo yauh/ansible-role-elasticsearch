@@ -1,5 +1,5 @@
 # yauh.elk
-Ansible role to install Elasticsearch
+Ansible role for setting up Elasticsearch
 
 ## Requirements
 SSH access to the remote machine Java

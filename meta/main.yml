@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Stephan Hochhaus
-  description: Install Elasticsearch
+  description: Set up Elasticsearch
   company: freelance
   license: BSD
   min_ansible_version: 1.7
